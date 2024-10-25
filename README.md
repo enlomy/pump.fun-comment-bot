@@ -37,7 +37,7 @@ Make sure you have the following installed:
 
    Open your terminal or command prompt and navigate to the project directory:
    ```bash
-   cd pumpfun-comment-bot
+   cd pumpfun-comment-bot-for-pumpfun
 
 3. **Install Dependencies:**
 
