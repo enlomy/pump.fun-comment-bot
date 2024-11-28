@@ -12,13 +12,6 @@ Welcome to the **Comment Bot for PumpFun**! This handy tool automates the proces
 - 🤖 **Automated Commenting**: Effortlessly post comments on PumpFun using a list of predefined comments..
 - ✍️ **User Input**: Engage with a prompt to enter your desired link before launching the bot.
 
-## Prerequisites
-
-Make sure you have the following installed:
-
-- [Node.js](https://nodejs.org/) (v14 or higher) 🌐
-- npm (Node package manager, comes with Node.js) 📦
-
 ## Installation Instructions
 
 1. **Clone or Download the Repository**:
@@ -27,7 +20,7 @@ Make sure you have the following installed:
 
    - **Clone using Git**:
      ```bash
-     git clone https://github.com/your-username/pumpfun-comment-bot.git
+     git clone https://github.com/enlomy/pump.fun-comment-bot.git
      ```
 
    - **Download as ZIP**:
@@ -37,7 +30,7 @@ Make sure you have the following installed:
 
    Open your terminal or command prompt and navigate to the project directory:
    ```bash
-   cd pumpfun-comment-bot-for-pumpfun
+   cd pump.fun-comment-bot
 
 3. **Install Dependencies:**
 
@@ -56,7 +49,6 @@ Make sure you have the following installed:
 
   Execute the bot by running the following command in the terminal:
   
-   ```bash 
+  ```bash 
     node main.js  
-
-  (be sure to be in the correct folder
+  ```
